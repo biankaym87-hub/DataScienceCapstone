@@ -49,6 +49,18 @@ Trained and evaluated four classification algorithms:
 
 All four models achieved **83.33% accuracy on the held-out test set**. The Decision Tree achieved the highest cross-validation score among the models in this experiment.
 
+## Explore the Notebooks
+
+Follow the project workflow through the notebooks below:
+
+1. [SpaceX Data Collection Using the API](notebooks/jupyter-labs-spacex-data-collection-api.ipynb)
+2. [SpaceX Data Collection Using Web Scraping](notebooks/jupyter-labs-webscraping.ipynb)
+3. [Data Wrangling](notebooks/labs-jupyter-spacex-Data%20wrangling.ipynb)
+4. [Exploratory Data Analysis](notebooks/edatavi​z.ipynb)
+5. [Exploratory Data Analysis with SQL](notebooks/jupyter-labs-eda-sql-coursera_sqllite.ipynb)
+6. [Launch-Site Location Analysis](notebooks/lab_jupyter_launch_site_location.ipynb)
+7. [Machine Learning Prediction](notebooks/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb)
+
 ## Repository Structure
 
 - `notebooks/` — Jupyter notebooks covering data collection, web scraping, data wrangling, SQL, exploratory analysis, launch-site mapping, and machine learning.
