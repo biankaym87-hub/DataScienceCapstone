@@ -56,7 +56,7 @@ Follow the project workflow through the notebooks below:
 1. [SpaceX Data Collection Using the API](notebooks/jupyter-labs-spacex-data-collection-api.ipynb)
 2. [SpaceX Data Collection Using Web Scraping](notebooks/jupyter-labs-webscraping.ipynb)
 3. [Data Wrangling](notebooks/labs-jupyter-spacex-Data%20wrangling.ipynb)
-4. [Exploratory Data Analysis](notebooks/edatavi​z.ipynb)
+4. [Exploratory Data Analysis](notebooks/edadataviz.ipynb)
 5. [Exploratory Data Analysis with SQL](notebooks/jupyter-labs-eda-sql-coursera_sqllite.ipynb)
 6. [Launch-Site Location Analysis](notebooks/lab_jupyter_launch_site_location.ipynb)
 7. [Machine Learning Prediction](notebooks/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb)
