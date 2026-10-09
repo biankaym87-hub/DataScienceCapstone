@@ -61,6 +61,37 @@ Follow the project workflow through the notebooks below:
 6. [Launch-Site Location Analysis](notebooks/lab_jupyter_launch_site_location.ipynb)
 7. [Machine Learning Prediction](notebooks/SpaceX_Machine%20Learning%20Prediction_Part_5.ipynb)
 
+## How to Run the Dashboard
+
+The interactive dashboard allows users to explore SpaceX Falcon 9 launch outcomes by launch site and payload mass.
+
+### Requirements
+
+- Python 3
+- pandas
+- Plotly
+- Dash
+
+### Setup Instructions
+
+1. Clone or download this repository.
+2. Install the required Python libraries:
+
+   ```bash
+   python -m pip install pandas plotly dash
+   ```
+
+3. Make sure spacex_launch_dash.csv is available in the same directory as spacex-dash-app.py. The dataset is provided in the data/ folder.
+4. Run the application:
+
+   ```bash
+   python spacex-dash-app.py
+   ```
+
+5. Open the local URL displayed in your terminal (typically `http://127.0.0.1:8050/`) in your browser.
+
+Keep the terminal running while using the dashboard. Press `Ctrl+C` in the terminal to stop the application.
+
 ## Repository Structure
 
 - `notebooks/` — Jupyter notebooks covering data collection, web scraping, data wrangling, SQL, exploratory analysis, launch-site mapping, and machine learning.
