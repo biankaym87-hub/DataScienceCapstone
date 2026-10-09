@@ -27,6 +27,17 @@ Used Python visualizations and SQL queries to investigate launch outcomes, paylo
 
 ### 4. Interactive Dashboard
 Developed a Plotly Dash application with interactive filters and visualizations to explore launch outcomes by launch site and payload mass.
+### Dashboard Overview
+
+![SpaceX dashboard overview](screenshots/Spacex_fullscreen.png)
+
+### Launch-Site Analysis
+
+![Interactive launch-site analysis](screenshots/Spacex_launch_sites.png)
+
+### Payload-Range Analysis
+
+![Interactive payload-range analysis](screenshots/Spacex_Payload_range.png)
 
 ### 5. Predictive Analysis
 Trained and evaluated four classification algorithms:
