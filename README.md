@@ -81,7 +81,7 @@ The interactive dashboard allows users to explore SpaceX Falcon 9 launch outcome
    python -m pip install pandas plotly dash
    ```
 
-3. Make sure spacex_launch_dash.csv is available in the same directory as spacex-dash-app.py. The dataset is provided in the data/ folder.
+3. Copy `data/spacex_launch_dash.csv` into the same directory as `spacex-dash-app.py` before running the application.
 4. Run the application:
 
    ```bash
